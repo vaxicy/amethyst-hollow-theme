@@ -1,0 +1,15 @@
+:root {
+  --deep: #4c2365;
+  --mid: #7f5d99;
+  --soft: #9e7eb5;
+  --light: #c4a4da;
+  --ink: #3a2448;
+}
+
+.crystal-card {
+  background: #fdfbff;
+  border: 1px solid var(--soft);
+  border-radius: 14px;
+  color: var(--ink);
+  padding: 16px 20px;
+}
